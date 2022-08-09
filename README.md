@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gangadhar-Github
-- 👀 I’m interested in ...Data Science, Machine Learning
+- 👀 I’m interested in ...Data Science, Machine Learning and Artificial Intelligance
 - 🌱 I’m currently learning ... Python, Machine Learning and Data Science
-- 📫 How to reach me ... gangadhars915@gmmail.com 
+- 📫 How to reach me ... gangadhars915@gmail.com 
 
 <!---
 Gangadhar-Github/Gangadhar-Github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
