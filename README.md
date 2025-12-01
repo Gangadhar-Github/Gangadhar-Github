@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gangadhar-Github
-- 👀 I’m interested in ...SalesForce Developer, Data Science, Machine Learning and Artificial Intelligance
-- 🌱 I’m currently learning ...JavaScript,HTML, CSS, Python, Machine Learning and Data Science
+- 👀 I’m a SalesForce Developer,
+- 🌱 I’m interested in learning ...JavaScript,HTML, CSS, Python, Machine Learning and Data Science
 - 📫 How to reach me ... gangadharbiradar73@gmail.com 
 
 <!---
